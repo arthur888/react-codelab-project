@@ -2,8 +2,8 @@
 
 ## About
 
-React + Express.js 작업 환경
-- 클라이언트 / 서버 에서 ES6 문법 사용
+React + Express.js development environment
+- On the Client / Server, ES6 syntax are used
 - 개발 환경에서 webpack-dev-server 실행, 프록시 연결
 - react-hot-loader 를 통한 Hot Module Reload 사용
 - nodemon을 이용하여 개발 환경에서 서버사이드 코드가 수정 될 때 마다 서버 재시작
