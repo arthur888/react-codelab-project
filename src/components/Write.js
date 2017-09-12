@@ -11,7 +11,7 @@ class Write extends React.Component {
 
         this.handleChange = this.handleChange.bind(this);
         this.handlePost = this.handlePost.bind(this);
-
+        
     }
 
     handleChange(e) {
